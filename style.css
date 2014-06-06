@@ -1,0 +1,14 @@
+body{
+  background-image: url('ancient_parchment.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  font-size: 2em;
+}
+
+button{
+  height: 1.5em;
+  font-size: 1em;
+  border-radius: 0.25em;
+  background-color: yellow;
+  color: red;
+}
