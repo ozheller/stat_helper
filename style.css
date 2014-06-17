@@ -12,3 +12,13 @@ button{
   background-color: yellow;
   color: red;
 }
+
+.powerPoints{
+	background-color: transparent;
+	width: 2em;
+	font-size: 1em;
+	}
+	
+.attribute p:nth-child(){
+font-size: 3em;
+}
